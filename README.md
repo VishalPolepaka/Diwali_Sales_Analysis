@@ -5,3 +5,5 @@ To analyze Diwali sales data using Python to uncover purchasing trends, identify
 Dataset: Diwali Sales Data.csv
 
 Tools used: Jupyter notebook
+
+Project Learnings:
