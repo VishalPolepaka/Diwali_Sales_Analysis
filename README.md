@@ -7,3 +7,7 @@ Dataset: [Diwali Sales Data.csv](https://github.com/VishalPolepaka/Diwali_Sales_
 Tools used: Jupyter notebook
 
 Project Learnings:
+* Performed data cleaning and manipulation.
+* Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries.
+* Identified potential customers across different states, occupation, gender, and age groups.
+* Identified most selling product categories and products, which can help to plant inventory and hence meet the demands.
