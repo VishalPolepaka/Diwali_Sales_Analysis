@@ -12,6 +12,18 @@ To analyze Diwali sales data using Python to uncover purchasing trends, identify
 * Matplotlib & Seaborn
 * Jupyter notebook
 
+### Key Steps
+#### 1. Data Cleaning & Preparation
+* Removed duplicates and missing values
+* Standardized column names and datatypes
+#### 2. Exploratory Data Analysis EDA
+* Analyzed customer demographics like gender, age group etc
+* Identified top-selling products and categories
+* Visualized trends using bar plots, histograms
+#### 3. Insights & Business Value
+* Identified customer segments contributing the most to sales
+* Highlighted product categories with high demand
+
 ### Project Learnings:
 * Performed data cleaning and manipulation.
 * Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries.
